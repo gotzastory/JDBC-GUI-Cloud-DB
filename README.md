@@ -1,20 +1,20 @@
 ![ui_screenshot](https://github.com/user-attachments/assets/7c51ed28-4f24-4c38-a154-f690735d270f)
 
 
-# Java Database GUI (Cloud Database)
+# JavaDatabase GUI (Cloud Database)
 
-โปรเจกต์นี้เป็นระบบจัดการฐานข้อมูลหนังสือ โดยใช้ **Java** และเชื่อมต่อกับฐานข้อมูล **PostgreSQL** บน **Supabase** พร้อมรองรับการแปลงไฟล์เป็น `.exe` สำหรับการใช้งานง่ายผ่าน GUI
+JavaDatabase GUI เป็นโปรเจกต์ที่พัฒนาโดยใช้ Java สำหรับการจัดการฐานข้อมูล โดยเชื่อมต่อกับฐานข้อมูล PostgreSQL ที่โฮสต์อยู่บน **Supabase** และมีส่วนติดต่อผู้ใช้งาน (GUI) ที่เป็นมิตรและใช้งานง่าย. 
 
 ---
 
 ## Features
 
-- **เพิ่มข้อมูล**: เพิ่มรายการข้อมูลใหม่เข้าสู่ฐานข้อมูล.
+- **เพิ่มข้อมูล**: เพิ่มรายการข้อมูลใหม่เข้าสู่ฐานข้อมูลผ่าน GUI.
 - **แก้ไขข้อมูล**: แก้ไขรายการข้อมูลที่มีอยู่.
 - **ลบข้อมูล**: ลบรายการข้อมูลจากฐานข้อมูล.
-- **แสดงข้อมูล**: ดูรายการข้อมูลทั้งหมดในฐานข้อมูล.
+- **แสดงข้อมูล**: ดูรายการข้อมูลทั้งหมดในฐานข้อมูลผ่าน GUI.
 - **เชื่อมต่อกับ Cloud Database**: ใช้ Supabase เป็นฐานข้อมูล PostgreSQL.
-- **UI Friendly**: ส่วนติดต่อผู้ใช้งานที่ง่ายต่อการใช้งาน.
+- **แปลงเป็นไฟล์ EXE**: รองรับการใช้งานแบบ Standalone.
 
 ---
 
@@ -41,8 +41,8 @@
 
 1. **Clone โปรเจกต์จาก GitHub**:
    ```bash
-   git clone https://github.com/<your-username>/JavaDatabase5.git
-   cd JavaDatabase5
+   git clone https://github.com/<your-username>/JavaDatabaseGUI.git
+   cd JavaDatabaseGUI
    ```
 
 2. **ตั้งค่าฐานข้อมูลใน Supabase**:
@@ -65,7 +65,7 @@
 4. **Build JAR File**:
    - ใช้คำสั่ง:
      ```bash
-     jar cvfm JavaDatabase.jar META-INF/MANIFEST.MF -C bin . -C lib postgresql-42.7.4.jar
+     jar cvfm JavaDatabaseGUI.jar META-INF/MANIFEST.MF -C bin . -C lib postgresql-42.7.4.jar
      ```
 
 5. **แปลงเป็น EXE (Optional)**:
@@ -78,12 +78,22 @@
 1. **รันโปรแกรม**:
    - ใช้ไฟล์ `.jar`:
      ```bash
-     java --enable-preview -jar JavaDatabase.jar
+     java --enable-preview -jar JavaDatabaseGUI.jar
      ```
    - หรือรันไฟล์ `.exe` (ถ้าแปลงแล้ว).
 
 2. **เชื่อมต่อฐานข้อมูล**:
    - ตรวจสอบให้แน่ใจว่า Supabase เปิดใช้งานและฐานข้อมูลถูกต้อง.
+
+---
+
+## Screenshots
+
+### UI
+![UI Screenshot](./img/ui_screenshot.png)
+
+### Database Connection
+![Database Connection Screenshot](./img/database_connection.png)
 
 ---
 
