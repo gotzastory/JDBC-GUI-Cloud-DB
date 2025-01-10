@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\thana\Desktop\OOP4it67\JavaDatabase\JavaDatabase GUI with Cloub Database\Java Database.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\thana\Desktop\OOP4it67\JavaDatabase\JavaDatabase GUI with Cloub Database\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-23\bin;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\thana\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\thana\AppData\Local\Programs\Python\Python38\;C:\Users\thana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\thana\AppData\Local\Programs\Python\Python312\;C:\Users\thana\AppData\Local\Microsoft\WindowsApps;C:\Users\thana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\thana\AppData\Roaming\npm;C:\Program Files\Java\jdk-23\bin
+JRE paths:	;C:\Program Files\Java\jdk-23\bin;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\thana\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\thana\AppData\Local\Programs\Python\Python38\;C:\Users\thana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\thana\AppData\Local\Programs\Python\Python312\;C:\Users\thana\AppData\Local\Microsoft\WindowsApps;C:\Users\thana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\thana\AppData\Roaming\npm;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	--enable-preview -jar "C:\Users\thana\Desktop\OOP4it67\JavaDatabase\JavaDatabase GUI with Cloub Database\Java Database.exe"
+Args length:	123/32768 chars
+Exit code:	0
