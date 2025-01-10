@@ -1,4 +1,4 @@
-# Java Database GUI (Cloud Database)
+![ui_screenshot](https://github.com/user-attachments/assets/7c51ed28-4f24-4c38-a154-f690735d270f)# Java Database GUI (Cloud Database)
 
 โปรเจกต์นี้เป็นระบบจัดการฐานข้อมูลหนังสือ โดยใช้ **Java** และเชื่อมต่อกับฐานข้อมูล **PostgreSQL** บน **Supabase** พร้อมรองรับการแปลงไฟล์เป็น `.exe` สำหรับการใช้งานง่ายผ่าน GUI
 
@@ -87,10 +87,10 @@
 ## Screenshots
 
 ### UI
-![UI Screenshot](./img/ui_screenshot.png)
+![UI Screenshot](.src/com/mystou/javadb/img/ui_screenshot.png)
 
 ### Database Connection
-![Database Connection Screenshot](./img/database_connection.png)
+![Database Connection Screenshot](.src/com/mystou/javadb/img/database_connection.png)
 
 ---
 
