@@ -41,7 +41,7 @@ JavaDatabase GUI เป็นโปรเจกต์ที่พัฒนาโ
 
 1. **Clone โปรเจกต์จาก GitHub**:
    ```bash
-   git clone https://github.com/<your-username>/JavaDatabaseGUI.git
+   git clone https://github.com/<your-username>/JDCB-GUI-Cloud-DB.git
    cd JavaDatabaseGUI
    ```
 
