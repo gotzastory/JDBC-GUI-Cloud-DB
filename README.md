@@ -105,16 +105,6 @@ JavaDatabase GUI เป็นโปรเจกต์ที่พัฒนาโ
 
 ---
 
-## Screenshots
-
-### UI
-![UI Screenshot](./img/ui_screenshot.png)
-
-### Database Connection
-![Database Connection Screenshot](./img/database_connection.png)
-
----
-
 ## Troubleshooting
 
 1. **Error: Unable to connect to database**
